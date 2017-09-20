@@ -1,0 +1,15 @@
+{
+  "listeners": {
+    "*:8300": {
+      "application": "test"
+    }
+  },
+  "applications": {
+    "test": {
+      "type": "php",
+      "workers": 10,
+      "root": "/applications/test",
+      "index": "index.php"
+    }
+  }
+}
