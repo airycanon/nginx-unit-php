@@ -3,7 +3,7 @@
 NGINX Unit is a dynamic web application server, designed to run applications in multiple languages. 
 
 # Documentation
-See http://unit.nginx.org/docs-nginx-unit.html.
+See http://unit.nginx.org.
 
 # Run
 ```
